@@ -1,4 +1,4 @@
-#  Sistema de Gerenciamento Netflix em Python
+#  Sistema de Gerenciamento Netflix em Java
 
 Este é um projeto desenvolvido para a disciplina de **Orientação a Objetos (OO)**, que simula um sistema simplificado de gerenciamento da Netflix. A aplicação permite aos usuários realizar operações de CRUD (Create, Read, Update, Delete) em suas contas, além de visualizar e filtrar filmes e séries.
 
@@ -18,5 +18,5 @@ O sistema oferece as seguintes funcionalidades principais:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Python:** Linguagem de programação principal utilizada.
+* **Java:** Linguagem de programação principal utilizada.
 * **Programação Orientada a Objetos (POO):** O projeto foi estruturado utilizando os princípios de POO, como classes, objetos, herança, encapsulamento, etc.

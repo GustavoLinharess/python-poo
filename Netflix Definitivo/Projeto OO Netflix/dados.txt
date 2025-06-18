@@ -1,0 +1,47 @@
+Dados dos Filmes:
+O Chamado,Terror
+It: A Coisa,Terror
+O Exorcista,Terror
+Atividade Paranormal,Terror
+Psicose,Terror
+Se Beber, N�o Case,Com�dia
+Superbad,Com�dia
+A Mentira,Com�dia
+As Branquelas,Com�dia
+Escola de Rock,Com�dia
+Orgulho e Preconceito,Romance
+Titanic,Romance
+A Culpa � das Estrelas,Romance
+Di�rio de uma Paix�o,Romance
+500 Dias com Ela,Romance
+Duro de Matar,A��o
+Matrix,A��o
+Mad Max: Estrada da F�ria,A��o
+Velozes e Furiosos,A��o
+Homem de Ferro,A��o
+
+Dados das S�ries:
+Stranger Things,Terror
+American Horror Story,Terror
+The Haunting of Hill House,Terror
+Bates Motel,Terror
+The Walking Dead,Terror
+Friends,Com�dia
+The Office,Com�dia
+Brooklyn Nine-Nine,Com�dia
+How I Met Your Mother,Com�dia
+Parks and Recreation,Com�dia
+Outlander,Romance
+Grey's Anatomy,Romance
+The Crown,Romance
+Modern Love,Romance
+To All the Boys I've Loved Before,Romance
+Breaking Bad,A��o
+Game of Thrones,A��o
+The Witcher,A��o
+Marvel's Daredevil,A��o
+Arrow,A��o
+
+Dados dos Usu�rios:
+naiaras
+gustavo123
